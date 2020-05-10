@@ -3,10 +3,10 @@
 #### To get started with our API, you must connect to the `interaction point` :
 
 1. Api.LumixCloud.Net
-(Addresses may be added)
+(Addresses may be edit)
 
 With this address, `all` further work with the `API occurs`. 
-For example, to check the token for operability, you can use the Get-Request at the address: 
+For example, to check the token for operability, you can use the Get Request at the address: 
 
 api.lumixcloud.net/token/(Here is your token)
 
