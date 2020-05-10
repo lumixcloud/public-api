@@ -12,3 +12,4 @@ api.lumixcloud.net/token/(Here is your token)
 
 You will receive a json response of the form: {token: "xxx", expire_time: "05/10/2020 18:20:16"}
 #### In the process of your interaction, various kinds of `errors` can occur, you can read about them [here](https://soon/).
+#### For ease of development, we advise you to install the extension for the Chrome browser: [JSON FORMATTER](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa). It translates json in a readable form.
