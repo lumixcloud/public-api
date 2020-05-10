@@ -1,5 +1,9 @@
 # LumixCloud. API Documentation. English version.
 
+***
+English version | [Русская версия](https://github.com/lumixcloud/public-api/blob/master/README-Rus.md)
+***
+
 #### To get started with our API, you must connect to the `interaction point` :
 
 1. Api.LumixCloud.Net
