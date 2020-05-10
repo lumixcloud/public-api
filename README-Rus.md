@@ -1,4 +1,4 @@
-# LumixCloud. Документация по API. Английская версия.
+# LumixCloud. Документация по API. Русская версия.
 
 ***
 [English version](https://github.com/lumixcloud/public-api/blob/master/README.md) | Русская версия
